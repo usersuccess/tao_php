@@ -1,6 +1,2 @@
-Git is a version control system.
-Git is free software.
-Git is a distributed version control system.
-Git is free software.
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+根据使用php环境不同 ，可能需要一些特殊配置。
+联系邮箱617588782@qq.com。
